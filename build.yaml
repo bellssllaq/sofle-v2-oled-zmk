@@ -1,8 +1,10 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: sofle_left hand_config
+    shield:
+      - sofle_left
   - board: nice_nano_v2
-    shield: sofle_right hand_config
+    shield:
+      - sofle_right
   - board: nice_nano_v2
     shield: settings_reset
